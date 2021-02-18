@@ -1,0 +1,2 @@
+# To delete homebrew/core when necessary (e.g., installation failure, interruption, etc.)
+rm -fr $(brew --repo homebrew/core)
