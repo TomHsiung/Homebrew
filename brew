@@ -6,3 +6,6 @@ brew install packageName
 
 # Find a package
 brew search packageName
+
+# Create symlinked for a package
+brew link packageName
