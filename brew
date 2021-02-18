@@ -1,0 +1,8 @@
+# Homebrew update
+brew update
+
+# Install a package
+brew install packageName
+
+# Find a package
+brew search packageName
