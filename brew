@@ -12,3 +12,6 @@ brew link packageName
 
 # Uninstall a package
 brew remove packageName
+
+# Look up a package
+brew info packageName
