@@ -9,3 +9,6 @@ brew search packageName
 
 # Create symlinked for a package
 brew link packageName
+
+# Uninstall a package
+brew remove packageName
