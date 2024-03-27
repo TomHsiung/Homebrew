@@ -1,0 +1,14 @@
+# Step 1
+brew list
+
+# Step 2, list the package dependencies
+brew deps <package_name>
+
+# Step 3
+brew uninstall <package_name>
+
+# Step 4, verify
+brew list | grep <package_name>
+
+# Step 5
+brew autoremove
