@@ -1,0 +1,5 @@
+# Search packages
+brew search strongswan
+
+# Check the info of packages
+brew info strongswan
